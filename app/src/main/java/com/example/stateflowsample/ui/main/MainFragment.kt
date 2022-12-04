@@ -9,7 +9,6 @@ import android.view.ViewGroup
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
-import com.example.stateflowsample.R
 import com.example.stateflowsample.databinding.FragmentMainBinding
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
